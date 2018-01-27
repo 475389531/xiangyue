@@ -1,0 +1,135 @@
+.box{
+	width: 100%;
+	height: 13.34rem;
+	background-color: #f5f6f6;
+}
+.box img{
+	width: 100%;
+	height: 3.85rem;
+	margin-bottom: 0.25rem;
+}
+.box-1{
+	width: 100%;
+	height: 1.5rem;
+	background-color: #fff;
+	margin-bottom: 0.25rem;
+	
+}
+.box-1-1{
+	margin-top: 0rem;
+	width: 1.875rem;
+	height: 0.7rem;
+	
+	float: left;
+	border-right: 0.02rem solid #ccc;
+	text-align: center;
+	line-height: 0.7rem;
+	color: #333;
+}
+.box-1-1-1{
+	border-right: 0;
+}
+.xinzeng{
+	width: 1.875rem;
+	height: 0.3rem;
+	margin-left: 3.75rem;
+	text-align: center;
+	line-height: 0.4rem;
+	font-size: 0.15rem;
+}
+.box-wz{
+	width: 25%;
+	height: 0.5rem;
+	float: left;
+	text-align: center;
+	line-height: 0.5rem;
+	font-size: 0.22rem;
+}
+.box-2{
+	width: 100%;
+	height: 1.5rem;
+	background-color: #fff;
+	margin-bottom: 0.25rem;
+	padding: 0 .5rem;
+}
+.box-2-1{
+	width: 100%;
+	height: 0.74rem;
+	border-bottom: 0.01rem solid #ccc;
+	line-height: 0.75rem;
+	font-size: 0.26rem;
+}
+.box-2-1 span{
+	float: right;
+	font-size: 0.21rem;
+	color: #ccc;
+}
+.box-2-1-teshu{
+	border: 0;
+	height: 0.75rem;
+}
+.box-3{
+	width: 100%;
+	height: 2.25rem;
+	background-color: #fff;
+	padding: 0 .5rem;
+	margin-bottom: 0.25rem;
+}
+.box-4{
+	width: 100%;
+	height: 0.75rem;
+	background-color: #fff;
+	padding: 0 .5rem;
+}
+/* tab开始 */
+.tab1{
+	width: 1.875rem;
+	height: 1.1rem;
+	background-color: #333c41;
+	position: absolute;
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	margin: auto;
+}
+.tab2{
+	width: 1.875rem;
+	height: 1.1rem;
+	background-color: #333c41;
+	position: absolute;
+	position: fixed;
+	bottom: 0;
+	left: 1.875rem;
+	margin: auto;
+	
+
+
+}
+.tab3{
+	width: 1.875rem;
+	height: 1.1rem;
+	background-color: #333c41;
+	position: absolute;
+	position: fixed;
+	left: 3.75rem;
+	bottom: 0;
+	margin: auto;
+}
+.tab4{
+	width: 1.975rem;
+	height: 1.2rem;
+	background-color: #e8373b;
+	position: absolute;
+	position: fixed;
+	right: 0;
+	bottom: 0;
+	margin: auto;
+	border-top-left-radius: 0.1rem;
+	border-top-right-radius: 0.1rem;
+	z-index: 999;
+}
+.img{
+	width: 1.2rem;
+	height: 1.2rem;
+	margin: 0 auto;
+}

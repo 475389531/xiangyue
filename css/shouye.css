@@ -1,0 +1,286 @@
+
+@font-face {
+  font-family: 'iconfont';  /* project id 532551 */
+  src: url('https://at.alicdn.com/t/font_532551_76ff5zbry6wdn29.eot');
+  src: url('https://at.alicdn.com/t/font_532551_76ff5zbry6wdn29.eot?#iefix') format('embedded-opentype'),
+  url('https://at.alicdn.com/t/font_532551_76ff5zbry6wdn29.woff') format('woff'),
+  url('https://at.alicdn.com/t/font_532551_76ff5zbry6wdn29.ttf') format('truetype'),
+  url('https://at.alicdn.com/t/font_532551_76ff5zbry6wdn29.svg#iconfont') format('svg');
+}/* 标题栏 */
+.btl{
+	width: 100%;
+	height: 0.88rem;
+	background-color: #e8373b;
+	padding: 0 .24rem;
+}
+.tyan{
+	width: auto;
+	height: 0.88rem;
+	line-height: 0.88rem;
+	color: #fff;
+	font-size: 0.25rem;
+	float: left;
+
+}
+.sskbj{
+	width: 5.35rem;
+	height: 0.88rem;
+	background-color: #e8373b;
+	margin: 0 auto;
+	padding-top: 0.1rem;
+}
+.ssk{
+	width: 5.35rem;
+	height: 0.68rem;
+	background-color: #fff;
+	margin: 0 auto;
+	border-radius: 0.32rem;
+	text-align: center;
+	line-height: 0.68rem;
+}
+.ssk h1{
+	color: #e7393b;
+	font-size: 0.25rem;
+	font-family: "iconfont";
+}
+.ssk h1 span{
+	color: #b0b0b0;
+	font-size: 0.25rem;
+}
+.jhan{
+	font-size: 0.5rem;
+	color: #fff;
+	position: absolute;
+	position: fixed;
+	top: 0rem;
+	right: 0.24rem;
+	line-height: 0.88rem;
+}
+/* 标题栏结束 */
+
+/* 盒子整体 */
+/* banner开始 */
+.box{
+	width: 100%;
+	height: 12.46rem;
+	background-color: #f7f8f8;
+	position: absolute;
+	position: fixed;
+	top:0.88rem;
+	margin: auto;
+}
+.bj-1{
+	width: 100%;
+	height: 1.8rem;
+	background-color: #e8373b;
+	padding: 0 .24rem;
+}
+.bj-2{
+	width: 6.5rem;
+	height: 1.35rem;
+	background-color: #e8373b;
+	margin: 0 auto;
+	border-bottom-left-radius: 0.15rem;
+	border-bottom-right-radius: 0.15rem;
+}
+.banner img{
+	width: 7.1rem;
+	height: 2.7rem;
+	position: absolute;
+	top: 0.3rem;
+	left: 0;
+	right: 0;
+	margin: auto;
+	border-radius: 0.15rem;
+}
+/* banner结束 */
+
+/* icon功能 */
+.icon{
+	width: 100%;
+	height: 1.58rem;
+	margin-top: 0.35rem;
+	padding: 0 1rem;
+	display: flex;
+	justify-content: space-between;
+}
+.an1{
+	width: 1.58rem;
+	height: 1.58rem;
+	float: left;
+}
+.antu{
+	width: 1.12rem;
+	height: 1.55rem;
+	margin: 0 auto;
+}
+/* icon功能区结束 */
+
+/* 内容区 */
+/* 内容标签 */
+.nrbq{
+	width: 100%;
+	height: 0.85rem;
+	margin-top: 0.5rem;
+	
+	padding: 0 .24rem;
+}
+.zuo{
+	width:3.51rem;
+	height:0.85rem;
+	padding-top: 0.22rem;
+	padding-left: 0.22rem;
+	float: left;
+}
+.zuo-1{
+	width: 100%;
+	height: 100%;
+	background-color: #e8373b;
+	border-top-left-radius: 0.1rem;
+	border-top-right-radius: 0.1rem;
+	color: #fff;
+	line-height: 0.63rem;
+	text-align: center;
+}
+.zuo-1 span{
+	font-family: "iconfont";
+	color: #fff;
+}
+.you{
+	width:3.51rem;
+	height: 0.85rem;
+	background-color: #fff;
+	float: left;
+	border-top-left-radius: 0.1rem;
+	border-top-right-radius: 0.1rem;
+	line-height: 0.85rem;
+	color: #e8373b;
+	font-weight: bold;
+	text-align: center;
+}
+.you span{
+	font-family: "iconfont";
+	color:#e8373b;
+}
+/* 标签结束 */
+/* 内容详细 */
+.nr{
+	width: 100%;
+	height: 2.1rem;
+	
+	padding: 0 0.24rem;
+}
+.nr-1{
+	width: 100%;
+	height: 2.1rem;
+	background-color: #fff;
+	border-radius: 0.1rem;
+	margin-bottom: 0.2rem;
+	padding-top: 0.42rem;
+	padding-left: 0.26rem;
+	padding-right: 0.26rem; 
+}
+.nr-1{
+	border-top-right-radius: 0rem;
+}
+.nr-1 img{
+	width: 1.4rem;
+	height: 1.4rem;
+	float: left;
+}
+.nr-you{
+	width: 4.85rem;
+	height: 1.5rem;
+	float: left;
+	margin-left:0.12rem;
+	padding-top: 0.08rem;
+	margin-bottom: 0.12rem;
+}
+.nr-you h1{
+	font-size: 0.3rem;
+	margin-bottom: 0.12rem;
+}
+.nr-you h2{
+ 	font-size: 0.18rem;
+ 	color: #b0b0b0;
+ 	float: left;
+ 	margin-bottom: 0.12rem;
+}
+.nr h2 span{
+	font-size: 0.18rem;
+	color: #ff6700;
+	margin-bottom: 0.12rem;
+}
+.dyd{
+	width: 7.02rem;
+	height: 0.8rem;
+	background-color: #fff;
+	border-radius: 0.1rem;
+	margin: 0 auto;
+	margin-top: 2.5rem;
+}
+.bq h3{
+	font-family: "iconfont";
+	color: #b0b0b0;
+	font-size: 0.18rem;
+	position: absolute;
+	left:2.1rem;
+}
+.slh{
+	color: #e8373b;
+	font-family: "iconfont";
+	float: right;
+	font-size: 0.38rem;
+}
+/* 内容详细结束 */
+/* tab开始 */
+.tab1{
+	width: 1.875rem;
+	height: 1.1rem;
+	background-color: #333c41;
+	position: absolute;
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	margin: auto;
+}
+.tab2{
+	width: 1.975rem;
+	height: 1.2rem;
+	background-color: #e8373b;
+	position: absolute;
+	position: fixed;
+	bottom: 0;
+	left: 1.825rem;
+	margin: auto;
+	z-index: 999;
+	border-top-left-radius: 0.1rem;
+	border-top-right-radius: 0.1rem;
+
+}
+.tab3{
+	width: 1.875rem;
+	height: 1.1rem;
+	background-color: #333c41;
+	position: absolute;
+	position: fixed;
+	left: 3.75rem;
+	bottom: 0;
+	margin: auto;
+}
+.tab4{
+	width: 1.875rem;
+	height: 1.1rem;
+	background-color: #333c41;
+	position: absolute;
+	position: fixed;
+	right: 0;
+	bottom: 0;
+	margin: auto;
+}
+.img{
+	width: 1.2rem;
+	height: 1.2rem;
+	margin: 0 auto;
+}
+/* 全部结束 */
